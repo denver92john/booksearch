@@ -1,0 +1,25 @@
+
+form {
+    font-size: 1.2em;
+    font-weight: 500;
+}
+
+form div {
+    padding: 10px 0;
+    background-color: rgb(143, 142, 142);
+}
+
+form div:last-of-type {
+    background-color: lightgrey;
+}
+
+label {
+    padding: 0 10px;
+}
+
+input, 
+select,
+button {
+    font-size: 1em;
+    padding: .15em .35em;
+}
